@@ -8,3 +8,6 @@ Pejkovic
 Jos jedan red
 Opa
 sad je novo
+
+# Nasolv u .md pocinje tarabom?
+Ajd i to cudo da vidim
