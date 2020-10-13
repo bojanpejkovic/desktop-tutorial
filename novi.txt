@@ -3,10 +3,10 @@ Novi fajl.
 # Zezanje brunch napravljen
 
 Jos noviji fajl
-<<<<<<< Updated upstream
-=======
 
 
 
 jos nesto mladji fajl takoreci jednojajcani fajl
->>>>>>> Stashed changes
+
+
+Da ne idemo dalje u tom pravcu
